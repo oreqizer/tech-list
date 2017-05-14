@@ -29,6 +29,12 @@ The best flux implementation.
 * Reselect - selectors
 * Normalizr - normalizing API responses
 
+### Flow
+A more robust and flexible type system for JS than _TypeScript_.
+
+* Flow
+* Flow typed - Library definitions
+
 ### Utils
 * Date fns - A better _moment_
 * Validator - DRY validation
@@ -37,6 +43,9 @@ The best flux implementation.
 
 ### Hipsterish
 * Inferno - Turbo lightweight React
+
+### Worthwile mention
+* TypeScript - Types for corporations. Angular runs on it.
 
 ### To try
 * Vue2 - Nice for tiny apps
