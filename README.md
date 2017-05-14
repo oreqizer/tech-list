@@ -9,7 +9,7 @@ A no-brainer when it comes to view libraries.
 * React router - SPA routing
 * React redux - Redux bindings
 * React icons - SVG icons in React
-* React motion - Animations
+* React motion - animations
 
 ### Ramda
 The best thing to ever happen to FP in JS.
@@ -33,7 +33,43 @@ The best flux implementation.
 A more robust and flexible type system for JS than _TypeScript_.
 
 * Flow
-* Flow typed - Library definitions
+* Flow typed - library definitions
+
+### ESlint
+The go-to linter.
+
+* ESlint
+* ESlint Airbnb
+* ESlint Flow
+
+### Styled components
+Neatest CSS for React solution.
+
+* Styled components
+* Myth - CSS magix
+
+### Jest
+Easiest testing for React apps.
+
+* Jest
+* Enzyme - easier test rendering
+
+### Babel
+Use hipter JS today!
+
+* Babel
+* Babili - babel-based minifier
+
+### Webpack
+Best ecosystem for bundling.
+
+* Webpack
+* Webpack i18n - static internationalization
+
+### Polyglot
+Lightweight runtime i18n. Has pluralization.
+
+* Polyglot
 
 ### Utils
 * Date fns - A better _moment_
@@ -41,15 +77,16 @@ A more robust and flexible type system for JS than _TypeScript_.
 
 ## Toy apps
 
-### Hipsterish
-* Inferno - Turbo lightweight React
+### View libs
+* Inferno - turbo lightweight React
+* Vue2 - nice for tiny apps
+* Angular - nice for corporations
 
-### Worthwile mention
-* TypeScript - Types for corporations. Angular runs on it.
+### CSS
+* PostCSS - like Myth but with more things
 
-### To try
-* Vue2 - Nice for tiny apps
-* Angular - Nice for corporations
+### Static analysis
+* TypeScript - types for corporations, Angular runs on it.
 
 # TODO
 - [ ] Add links to things
