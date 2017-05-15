@@ -55,7 +55,7 @@ Easiest testing for React apps.
 * Enzyme - easier test rendering
 
 ### Babel
-Use hipter JS today!
+Use hipster JS today!
 
 * Babel
 * Babili - babel-based minifier
