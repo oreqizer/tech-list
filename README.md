@@ -14,45 +14,46 @@ A no-brainer when it comes to view libraries.
 ### Ramda
 The best thing to ever happen to FP in JS.
 
-* Ramda
+* [Ramda](https://github.com/ramda/ramda)
 
 ### RxJS
 The best thing to ever happen to handling side effects in JS.
 
-* RxJS
+* [RxJS](https://github.com/ReactiveX/rxjs)
 
 ### Redux
 The best flux implementation.
 
-* Redux
-* Redux observable - RxJS with Redux
-* Reselect - selectors
-* Normalizr - normalizing API responses
+* [Redux](https://github.com/reactjs/redux)
+* [Redux observable](https://github.com/redux-observable/redux-observable) - RxJS with Redux
+* [Reselect](https://github.com/reactjs/reselect) - selectors
+* [Normalizr](https://github.com/paularmstrong/normalizr) - normalizing API responses
 
 ### Flow
 A more robust and flexible type system for JS than _TypeScript_.
 
-* Flow
-* Flow typed - library definitions
+* [Flow](https://github.com/facebook/flow)
+* [Flow typed](https://github.com/flowtype/flow-typed) - library definitions
 
 ### ESlint
 The go-to linter.
 
-* ESlint
-* ESlint Airbnb
-* ESlint Flow
+* [ESlint](https://github.com/eslint/eslint)
+* [ESlint Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
+* [ESlint Flow](https://github.com/gajus/eslint-plugin-flowtype)
 
 ### Styled components
 Neatest CSS for React solution.
 
-* Styled components
-* Myth - CSS magix
+* [Styled components](https://github.com/styled-components/styled-components)
+* [CSS modules](https://github.com/css-modules/css-modules)
+* [Myth](https://github.com/segmentio/myth) - CSS magix
 
 ### Jest
 Easiest testing for React apps.
 
-* Jest
-* Enzyme - easier test rendering
+* [Jest](https://github.com/facebook/jest)
+* [Enzyme](https://github.com/airbnb/enzyme) - easier test rendering
 
 ### Babel
 Use hipster JS today!
