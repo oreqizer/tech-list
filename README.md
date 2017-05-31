@@ -5,11 +5,11 @@
 ### React
 A no-brainer when it comes to view libraries.
 
-* React
-* React router - SPA routing
-* React redux - Redux bindings
-* React icons - SVG icons in React
-* React motion - animations
+* [React](https://github.com/facebook/react)
+* [React router](https://github.com/ReactTraining/react-router) - SPA routing
+* [React redux](https://github.com/reactjs/react-redux) - Redux bindings
+* [React icons](https://github.com/gorangajic/react-icons) - SVG icons in React
+* [React motion](https://github.com/chenglou/react-motion) - animations
 
 ### Ramda
 The best thing to ever happen to FP in JS.
