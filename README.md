@@ -47,8 +47,8 @@ The go-to linter.
 ### Styled components
 Neatest CSS for React solution.
 
-* [Styled components](https://github.com/styled-components/styled-components)
-* [CSS modules](https://github.com/css-modules/css-modules)
+* [Styled components](https://github.com/styled-components/styled-components) - if you don't like CSS files
+* [CSS modules](https://github.com/css-modules/css-modules) - if you like CSS files
 * [Myth](https://github.com/segmentio/myth) - CSS magix
 
 ### Jest
