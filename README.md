@@ -1,5 +1,7 @@
 # Frontend
 
+Since _JavaScript_ is the only language option, there's no language choice discussion here.
+
 ## Production apps
 
 ### React
