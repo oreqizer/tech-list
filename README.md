@@ -58,38 +58,37 @@ Easiest testing for React apps.
 ### Babel
 Use hipster JS today!
 
-* Babel
-* Babili - babel-based minifier
+* [Babel](https://github.com/babel/babel)
+* [Babili](https://github.com/babel/babili) - babel-based minifier
 
 ### Webpack
 Best ecosystem for bundling.
 
-* Webpack
-* Webpack i18n - static internationalization
+* [Webpack](https://github.com/webpack/webpack)
+* [Webpack i18n](https://github.com/webpack-contrib/i18n-webpack-plugin) - static internationalization
 
 ### Polyglot
 Lightweight runtime i18n. Has pluralization.
 
-* Polyglot
+* [Polyglot](https://github.com/airbnb/polyglot.js)
 
 ### Utils
-* Date fns - A better _moment_
-* Validator - DRY validation
+* [Date fns](https://github.com/date-fns/date-fns) - A better _moment_
+* [Validator](https://github.com/chriso/validator.js) - DRY validation
 
 ## Toy apps
 
 ### View libs
-* Inferno - turbo lightweight React
-* Vue2 - nice for tiny apps
-* Angular - nice for corporations
+* [Inferno](https://github.com/infernojs/inferno) - turbo lightweight React
+* [Vue2](https://github.com/vuejs/vue) - nice for tiny apps
+* [Angular](https://github.com/angular/angular) - nice for corporations
 
 ### CSS
-* PostCSS - like Myth but with more things
+* [PostCSS](https://github.com/postcss/postcss) - like Myth but with more things
 
 ### Static analysis
-* TypeScript - types for corporations, Angular runs on it.
+* [TypeScript](https://github.com/Microsoft/TypeScript) - types for corporations, Angular runs on it.
 
 # TODO
-- [ ] Add links to things
 - [ ] Backend
 - [ ] Data
